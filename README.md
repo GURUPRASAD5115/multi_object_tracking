@@ -40,9 +40,7 @@ The system is designed to handle real-world challenges such as **object motion, 
 ```
 project/
 │
-├── main.py
-├── input.mp4
-├── output.mp4
+├── main.py  
 ├── requirements.txt
 └── README.md
 ```
